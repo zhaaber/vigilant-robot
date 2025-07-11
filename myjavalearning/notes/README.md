@@ -1,2 +1,2 @@
-+ [ООП](#ооп)
-+ [Java Core](#java-core)
++ [ООП](#oop.md)
++ [Java Core](#core.md)
